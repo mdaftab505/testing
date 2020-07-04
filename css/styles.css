@@ -1,0 +1,57 @@
+/*************************** Tag selector*********************/
+h1{
+  margin-top: 0;
+  font-family: 'Clicker Script', sans-serif;
+  font-size: 50px;
+}
+p{
+  font-family: 'Playfair Display', serif;
+
+}
+
+body{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+
+
+}
+/*************************** Class selector*********************/
+.top{
+  background-color:#f4eeff;
+}
+.cloud1{
+  margin-top: 50px;
+  position:relative;
+  left:200px;
+}
+.cloud2{
+  display: block;
+  margin-left: 350px;
+}
+.profile{
+  margin: 0 auto;
+ height: 400px;
+ width: 400px;
+ display: inline-block;
+}
+.middle-container{
+  background-color: #dcd6f7;
+}
+.bottom-container{
+  margin-top: 0;
+  background-color: #a6b1e1;
+}
+.contact{
+  margin-top: 0;
+}
+.middle-hor{
+  margin-bottom: 0;
+  height: 1px;
+  background-color: black;
+}
+.profile-hor{
+  height: 1px;
+  background-color: black;
+}
